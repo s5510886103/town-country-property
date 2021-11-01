@@ -4,7 +4,7 @@
 		<property-id>59124</property-id>
 		<prices><price tenure="sale" currency="THB">15000000</price>
 <price tenure="rent" currency="THB" period="monthly"></price></prices>
-		<latitude>12.792723430856</latitiude>
+		<latitude>12.792723430856</latitude>
 		<longitude>100.92441692394</longitude>
 		<project-name></project-name>
 		<property-type>Commercial</property-type>
@@ -28,7 +28,7 @@ Licenses - Hotel Alcohol]]></descriptions>
 		<property-id>59127</property-id>
 		<prices><price tenure="sale" currency="THB">14000000</price>
 <price tenure="rent" currency="THB" period="monthly">45000</price></prices>
-		<latitiude>12.788827</latitiude>
+		<latitude>12.788827</latitude>
 		<longitude>100.927963</longitude>
 		<project-name></project-name>
 		<property-type>Commercial</property-type>
@@ -51,7 +51,7 @@ Licenses - Hotel Alcohol]]></descriptions>
 		<property-id>59131</property-id>
 		<prices><price tenure="sale" currency="THB">1500000</price>
 <price tenure="rent" currency="THB" period="monthly">10000</price></prices>
-		<latitiude>12.82311</latitiude>
+		<latitude>12.82311</latitude>
 		<longitude>100.91482</longitude>
 		<project-name>Sompong Condo</project-name>
 		<property-type>Condo</property-type>
@@ -74,7 +74,7 @@ Licenses - Hotel Alcohol]]></descriptions>
 		<property-id>59136</property-id>
 		<prices><price tenure="sale" currency="THB">11500000</price>
 <price tenure="rent" currency="THB" period="monthly">30000</price></prices>
-		<latitiude>12.840768</latitiude>
+		<latitude>12.840768</latitude>
 		<longitude>100.906022</longitude>
 		<project-name>Beach Villa Viphavadi</project-name>
 		<property-type>Condo</property-type>
@@ -96,7 +96,7 @@ Big balcony throughout.]]></descriptions>
 		<property-id>59137</property-id>
 		<prices><price tenure="sale" currency="THB">11500000</price>
 <price tenure="rent" currency="THB" period="monthly"></price></prices>
-		<latitiude>12.810922</latitiude>
+		<latitude>12.810922</latitude>
 		<longitude>100.91423</longitude>
 		<project-name>Baan Somprasong Condo</project-name>
 		<property-type>Condo</property-type>
@@ -115,7 +115,7 @@ Big balcony throughout.]]></descriptions>
 		<property-id>59143</property-id>
 		<prices><price tenure="sale" currency="THB">9000000</price>
 <price tenure="rent" currency="THB" period="monthly"></price></prices>
-		<latitiude>12.82311</latitiude>
+		<latitude>12.82311</latitude>
 		<longitude>100.91482</longitude>
 		<project-name></project-name>
 		<property-type></property-type>
@@ -134,7 +134,7 @@ Big balcony throughout.]]></descriptions>
 		<property-id>59150</property-id>
 		<prices><price tenure="sale" currency="THB">14000000</price>
 <price tenure="rent" currency="THB" period="monthly"></price></prices>
-		<latitiude>12.811927</latitiude>
+		<latitude>12.811927</latitude>
 		<longitude>100.947695</longitude>
 		<project-name>Phoenix Golf Course</project-name>
 		<property-type>House</property-type>
@@ -154,7 +154,7 @@ Beautiful house located inside the grounds of Phoenix Golf Course. Designed &amp
 		<property-id>59160</property-id>
 		<prices><price tenure="sale" currency="THB">14000000</price>
 <price tenure="rent" currency="THB" period="monthly"></price></prices>
-		<latitiude>12.783919</latitiude>
+		<latitude>12.783919</latitude>
 		<longitude>100.915174</longitude>
 		<project-name>Nusa Chivani Pattaya</project-name>
 		<property-type>House</property-type>
@@ -175,7 +175,7 @@ Viewing highly recommended.]]></descriptions>
 		<property-id>59162</property-id>
 		<prices><price tenure="sale" currency="THB">13500000</price>
 <price tenure="rent" currency="THB" period="monthly"></price></prices>
-		<latitiude>12.78506</latitiude>
+		<latitude>12.78506</latitude>
 		<longitude>100.942319</longitude>
 		<project-name>Mountain Village 2</project-name>
 		<property-type>House</property-type>
@@ -196,7 +196,7 @@ Another important advantage is the proximity to the world-famous Nong Nooch Trop
 		<property-id>59167</property-id>
 		<prices><price tenure="sale" currency="THB">12900000</price>
 <price tenure="rent" currency="THB" period="monthly"></price></prices>
-		<latitiude>12.783919</latitiude>
+		<latitude>12.783919</latitude>
 		<longitude>100.915174</longitude>
 		<project-name>Nusa Chivani Pattaya</project-name>
 		<property-type>House</property-type>
@@ -215,7 +215,7 @@ Another important advantage is the proximity to the world-famous Nong Nooch Trop
 		<property-id>59169</property-id>
 		<prices><price tenure="sale" currency="THB">11000000</price>
 <price tenure="rent" currency="THB" period="monthly"></price></prices>
-		<latitiude>12.783919</latitiude>
+		<latitude>12.783919</latitude>
 		<longitude>100.915174</longitude>
 		<project-name>Nusa Chivani Pattaya</project-name>
 		<property-type>House</property-type>
@@ -236,7 +236,7 @@ You will find yourself in a location that will be the envy of all your friends n
 		<property-id>59177</property-id>
 		<prices><price tenure="sale" currency="THB">0</price>
 <price tenure="rent" currency="THB" period="monthly">33000</price></prices>
-		<latitiude>12.80929</latitiude>
+		<latitude>12.80929</latitude>
 		<longitude>100.916746</longitude>
 		<project-name>Baan Hinwong Nivet</project-name>
 		<property-type>House</property-type>
@@ -255,7 +255,7 @@ You will find yourself in a location that will be the envy of all your friends n
 		<property-id>59181</property-id>
 		<prices><price tenure="sale" currency="THB">7000000</price>
 <price tenure="rent" currency="THB" period="monthly">45000</price></prices>
-		<latitiude>12.78506</latitiude>
+		<latitude>12.78506</latitude>
 		<longitude>100.942319</longitude>
 		<project-name>Mountain Village 2</project-name>
 		<property-type>House</property-type>
@@ -278,7 +278,7 @@ Affordable and trendy!]]></descriptions>
 		<property-id>59182</property-id>
 		<prices><price tenure="sale" currency="THB">9700000</price>
 <price tenure="rent" currency="THB" period="monthly">80000</price></prices>
-		<latitiude>12.78506</latitiude>
+		<latitude>12.78506</latitude>
 		<longitude>100.942319</longitude>
 		<project-name>Mountain Village 2</project-name>
 		<property-type>House</property-type>
@@ -298,7 +298,7 @@ Mountain Village is a modern cottage settlement situated in the southern part of
 		<property-id>59183</property-id>
 		<prices><price tenure="sale" currency="THB">7900000</price>
 <price tenure="rent" currency="THB" period="monthly">60000</price></prices>
-		<latitiude>12.78506</latitiude>
+		<latitude>12.78506</latitude>
 		<longitude>100.942319</longitude>
 		<project-name>Mountain Village 2</project-name>
 		<property-type>House</property-type>
@@ -318,7 +318,7 @@ Mountain Village is a modern cottage settlement situated in the southern part of
 		<property-id>59184</property-id>
 		<prices><price tenure="sale" currency="THB">12500000</price>
 <price tenure="rent" currency="THB" period="monthly">80000</price></prices>
-		<latitiude>12.78506</latitiude>
+		<latitude>12.78506</latitude>
 		<longitude>100.942319</longitude>
 		<project-name>Mountain Village 2</project-name>
 		<property-type>House</property-type>
@@ -343,7 +343,7 @@ Mountain Village is a modern cottage settlement situated in the southern part of
 		<property-id>59185</property-id>
 		<prices><price tenure="sale" currency="THB">4950000</price>
 <price tenure="rent" currency="THB" period="monthly"></price></prices>
-		<latitiude>12.796924</latitiude>
+		<latitude>12.796924</latitude>
 		<longitude>100.947683</longitude>
 		<project-name>Baan Dusit Pattaya View (Phase 4)</project-name>
 		<property-type>House</property-type>
@@ -364,7 +364,7 @@ It is a rare opportunity to buy 2 houses side by side. Two 3 bedroom houses each
 		<property-id>59187</property-id>
 		<prices><price tenure="sale" currency="THB">10700000</price>
 <price tenure="rent" currency="THB" period="monthly"></price></prices>
-		<latitiude>12.78506</latitiude>
+		<latitude>12.78506</latitude>
 		<longitude>100.942319</longitude>
 		<project-name>Mountain Village 2</project-name>
 		<property-type>House</property-type>
@@ -384,7 +384,7 @@ Mountain Village is a modern cottage settlement situated in the southern part of
 		<property-id>59188</property-id>
 		<prices><price tenure="sale" currency="THB">0</price>
 <price tenure="rent" currency="THB" period="monthly">47000</price></prices>
-		<latitiude>12.80929</latitiude>
+		<latitude>12.80929</latitude>
 		<longitude>100.916746</longitude>
 		<project-name>Baan Hinwong Nivet</project-name>
 		<property-type>House</property-type>
@@ -403,7 +403,7 @@ Mountain Village is a modern cottage settlement situated in the southern part of
 		<property-id>59192</property-id>
 		<prices><price tenure="sale" currency="THB">7950000</price>
 <price tenure="rent" currency="THB" period="monthly"></price></prices>
-		<latitiude>12.811927</latitiude>
+		<latitude>12.811927</latitude>
 		<longitude>100.947695</longitude>
 		<project-name>Phoenix Golf Course</project-name>
 		<property-type>Land</property-type>
