@@ -4,7 +4,7 @@
 		<property-id>59124</property-id>
 		<prices><price tenure="sale" currency="THB">15000000</price>
 <price tenure="rent" currency="THB" period="monthly"></price></prices>
-		<latitiude>12.792723430856</latitiude>
+		<latitude>12.792723430856</latitiude>
 		<longitude>100.92441692394</longitude>
 		<project-name></project-name>
 		<property-type>Commercial</property-type>
