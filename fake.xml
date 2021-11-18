@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <fazwaz>
 	<property>
-		<property-id>59124</property-id>
+		<property-id>1259124</property-id>
 		<prices><price tenure="sale" currency="THB">15000000</price>
 <price tenure="rent" currency="THB" period="monthly"></price></prices>
 		<latitude>12.792723430856</latitude>
 		<longitude>100.92441692394</longitude>
-		<project-name></project-name>
-		<property-type>Commercial</property-type>
+		<project-name>Le Jardin</project-name>
+		<property-type>Condo</property-type>
 		<bedrooms>11</bedrooms>
 		<bathrooms>13</bathrooms>
 		<indoor-area>500</indoor-area>
